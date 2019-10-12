@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.info {
+  background-color: aliceblue;
+  text-align: center;
+}
+
 body {
   background-color: #f3f3f3;
 }

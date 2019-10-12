@@ -2,6 +2,7 @@ import React from 'react';
 
 
 function Board(props) {
+    
 
     const drop = e => {
         e.preventDefault();
